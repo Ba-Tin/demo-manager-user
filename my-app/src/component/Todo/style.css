@@ -1,0 +1,24 @@
+/* .todo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .todo-list {
+    margin-top: 20px;
+    width: 50%;
+  }
+  
+  .todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  } */
+  .title{
+    text-align: center;
+  }
